@@ -1,0 +1,1 @@
+This is a static library from libics and gzip compiled for x64 Windows.
